@@ -42,30 +42,32 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 ## 🔧 My Projects
 ### Research related & open-source
 
-🔍 CV4LV: Computer Vision for people with Low Vision | [Simulation and code](https://github.com/SilvesterYu/CV4LV)
+🔍 CV4LV: Computer Vision for people with Low Vision | [<ins>Simulation and code</ins>](https://github.com/SilvesterYu/CV4LV)
 
-🔍 CrunchQA: Knowledge Graph Question Answering over Crunchbase data | [code & experiment results](https://github.com/colab-nyuad/CrunchQA)
+🔍 CrunchQA: Knowledge Graph Question Answering over Crunchbase data | [<ins>code & experiment results</ins>](https://github.com/colab-nyuad/CrunchQA)
 
-🔍 KUKA robotc arm automatic object sorting | [ROS code](https://github.com/SilvesterYu/KUKA-Project)
+🔍 KUKA robotc arm automatic object sorting | [<ins>ROS code</ins>](https://github.com/SilvesterYu/KUKA-Project)
 
-🔍 YOLOv5 bounding box adjustment | [code & environment & instructions](https://github.com/SilvesterYu/YOLO_Silvey_Task)
+🔍 YOLOv5 bounding box adjustment | [<ins>Code & environment & instructions</ins>](https://github.com/SilvesterYu/YOLO_Silvey_Task)
+
+🔍 Locally deployed YOLACT model for image segmentation | [<ins>Code & instructions</ins>](https://github.com/SilvesterYu/YOLACT-deployed)
 
 
 ### Course projects
 
-🔍 2022 Information Visualization course | [World happiness interactive website](https://hogwild.github.io/infovis2022spring/team7/index.html) source code [HERE](https://github.com/SilvesterYu/DATS-SHU235-Information-Visualization-Final-Project)
+🔍 2022 Information Visualization course | [<ins>World happiness interactive website</ins>](https://hogwild.github.io/infovis2022spring/team7/index.html) source code [<ins>HERE</ins>](https://github.com/SilvesterYu/DATS-SHU235-Information-Visualization-Final-Project)
 
-🔍 2022 Database Systems course | [Database building & web scraper](https://github.com/SilvesterYu/CS-UH2214-Database-Systems-PS1)
+🔍 2022 Database Systems course | [<ins>Database building & web scraper</ins>](https://github.com/SilvesterYu/CS-UH2214-Database-Systems-PS1)
 
-🔍 2021 Machine Learning course | [Sentiment analysis of CoVid-29 Tweets](https://github.com/SilvesterYu/MachineLearningFinalProject_SentimentTweetCoVid)
+🔍 2021 Machine Learning course | [<ins>Sentiment analysis of CoVid-29 Tweets</ins>](https://github.com/SilvesterYu/MachineLearningFinalProject_SentimentTweetCoVid)
 
-🔍 2021 Bio-Inspired Robot Systems | [Reconfigurable rolling-crawling quadrupedal bot](https://github.com/SilvesterYu/BioInspiredRobotSys/blob/main/final%20report.pdf)
+🔍 2021 Bio-Inspired Robot Systems | [<ins>Reconfigurable rolling-crawling quadrupedal bot</ins>](https://github.com/SilvesterYu/BioInspiredRobotSys/blob/main/final%20report.pdf)
 
-🔍 2020 Introduction to Computer Science course | [Online chat system](https://github.com/SilvesterYu/IntroToComputerScienceFinalProject)
+🔍 2020 Introduction to Computer Science course | [<ins>Online chat system</ins>](https://github.com/SilvesterYu/IntroToComputerScienceFinalProject)
 
-🔍 2019 Interaction Lab course | [Environmental game: Save Me From Plastic](https://wp.nyu.edu/shanghai-ima-documentation/foundations/interaction-lab/ly1164/save-me-from-plastic-lifan-yu-inmi-lee/)
+🔍 2019 Interaction Lab course | [<ins>Environmental game: Save Me From Plastic</ins>](https://wp.nyu.edu/shanghai-ima-documentation/foundations/interaction-lab/ly1164/save-me-from-plastic-lifan-yu-inmi-lee/)
 
-🔍 2019 Interaction Lab course | [Planttalks: a device that reminds you to water your plants](https://wp.nyu.edu/shanghai-ima-documentation/foundations/interaction-lab/ly1164/midterm-project-plantalks-lifan-yu-inmi-lee/)
+🔍 2019 Interaction Lab course | [<ins>Planttalks: a device that reminds you to water your plants</ins>](https://wp.nyu.edu/shanghai-ima-documentation/foundations/interaction-lab/ly1164/midterm-project-plantalks-lifan-yu-inmi-lee/)
 
 ---
 
