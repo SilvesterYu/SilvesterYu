@@ -40,8 +40,10 @@ Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pa
 
 ## 🏆 My Awards
 
-📯 [<ins>Best Research Work</ins>](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx), Third Forum for Women in Research ”Quwa: Women Empowerment for Global
+📯 Aug 2022, [<ins>Best Research Work</ins>](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx), Third Forum for Women in Research ”Quwa: Women Empowerment for Global
 Impact”
+
+📯 Apr 2022, [<ins>2nd place winner</ins>](https://sites.nyuad.nyu.edu/hackathon/index.php/the-nyuad-hackathon-for-social-good-in-the-arab-world-2022/)
 
 
 ---
