@@ -2,7 +2,7 @@
 
 💼 Research assistant, Multimedia & Visual Computing Lab, New York University
 
-🌱 Reasearch areas: Computer Vision | Deep Learning | Reinforcement Learning | Robotics | Natural Language Processing | Knowledge Graphs
+🌱 Research areas: Computer Vision | Deep Learning | Reinforcement Learning | Robotics | Natural Language Processing | Knowledge Graphs
 
 🎓 Computer Science major & Math minor, New York University Shanghai, class of 2023
 
