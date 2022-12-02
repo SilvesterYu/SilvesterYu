@@ -12,6 +12,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=SilvesterYu)
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu)
 
 
 ```
