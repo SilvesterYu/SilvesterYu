@@ -40,6 +40,16 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 ---
 
 ## 🔧 My Projects
+### Research related & open-source
+
+🔍 CV4LV: Computer Vision for people with Low Vision | [Simulation and code](https://github.com/SilvesterYu/CV4LV)
+
+🔍 CrunchQA: Knowledge Graph Question Answering over Crunchbase data | [code & experiment results](https://github.com/colab-nyuad/CrunchQA)
+
+🔍 KUKA robotc arm automatic object sorting | [ROS code](https://github.com/SilvesterYu/KUKA-Project)
+
+🔍 YOLOv5 bounding box adjustment | [code & environment & instructions](https://github.com/SilvesterYu/YOLO_Silvey_Task)
+
 
 ### Course projects
 
