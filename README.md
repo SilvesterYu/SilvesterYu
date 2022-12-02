@@ -43,13 +43,13 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 ### Course projects
 
-🔍 Information Visualization course | [World happiness interactive website]()
+🔍 Information Visualization course | [World happiness interactive website](https://github.com/SilvesterYu/DATS-SHU235-Information-Visualization-Final-Project)
 
 🔍 Database Systems course | [Database building & web scraper]()
 
-🔍 Machine Learning course | [Sentiment analysis of CoVid-29 Tweets]()
+🔍 Machine Learning course | [Sentiment analysis of CoVid-29 Tweets](https://github.com/SilvesterYu/MachineLearningFinalProject_SentimentTweetCoVid)
 
-🔍 Interaction Lab course | [Environmental game: Save Me From Plastic]()
+🔍 Interaction Lab course | [Environmental game: Save Me From Plastic](https://wp.nyu.edu/shanghai-ima-documentation/foundations/interaction-lab/ly1164/save-me-from-plastic-lifan-yu-inmi-lee/)
 
 ---
 
