@@ -52,6 +52,8 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 🔍 Locally deployed YOLACT model for image segmentation | [<ins>Code & instructions</ins>](https://github.com/SilvesterYu/YOLACT-deployed)
 
+🔍 NYUAD Quantum Computing Hackathon project "QVerified" | [<ins>Code & instructions</ins>](https://github.com/SilvesterYu/NYUAD-2022/tree/main/team18)
+
 
 ### Course projects
 
