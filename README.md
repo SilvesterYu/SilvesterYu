@@ -14,18 +14,18 @@
 ## My Publications
 
 [1] **[CrunchQA - A Synthetic Dataset for Question Answering over
-Crunchbase Knowledge Graph](https://github.com/colab-nyuad/CrunchQA/blob/master/CrunchQA_IEEE.pdf)** by **Lifan Yu**, Nadya Abdel Madjid, and Djellel Difallah, accepted for publication at the Ninth International Workshop on High Performance Big
-Graph Data Management, Analysis, and Mining (BigGraphs 2022) at 2022 IEEE International Conference on Big Data,
+Crunchbase Knowledge Graph](https://github.com/colab-nyuad/CrunchQA/blob/master/CrunchQA_IEEE.pdf)** by **Lifan Yu**, Nadya Abdel Madjid, and Djellel Difallah, accepted for publication at the [Ninth International Workshop on High Performance Big
+Graph Data Management, Analysis, and Mining (BigGraphs 2022)](https://biggraphs.org/) at [2022 IEEE International Conference on Big Data](http://bigdataieee.org/BigData2022/),
 Osaka, Japan, Dec. 17-20, 2022
 
 [2] **[Development of
-an Instance Segmentation Model for Automatic Identification of Recyclable Objects in Construction Projects](https://www.researchgate.net/publication/365700731_Development_of_an_Instance_Segmentation_Model_for_the_Automatic_Identification_of_Recyclable_Objects_in_Construction_Sites)** by Pi Ko, Muhammad Anas Gopee, **Lifan Yu**, Yaman Garg, Malak Mansour, and Borja Garcia de Soto, the 22nd
-International Conference on Construction Applications of Virtual Reality (CONVR 2022), Seoul, South Korea, Nov.
+an Instance Segmentation Model for Automatic Identification of Recyclable Objects in Construction Projects](https://www.researchgate.net/publication/365700731_Development_of_an_Instance_Segmentation_Model_for_the_Automatic_Identification_of_Recyclable_Objects_in_Construction_Sites)** by Pi Ko, Muhammad Anas Gopee, **Lifan Yu**, Yaman Garg, Malak Mansour, and Borja Garcia de Soto, the [22nd
+International Conference on Construction Applications of Virtual Reality (CONVR 2022)](http://convr2022.com/), Seoul, South Korea, Nov.
 16-19, 2022.
 
-[3] **Computer vision towards functional scene understanding: Unpacking Activities of Daily Living
-through AI in Low Vision (LV)** by **Lifan Yu**, and Yi Fang, Third Forum for Women in Research ”Quwa: Women Empowerment for Global
-Impact”, Sharjah, UAE, Aug. 25, 20
+[3] **[Computer vision towards functional scene understanding: Unpacking Activities of Daily Living
+through AI in Low Vision (LV)](https://github.com/SilvesterYu/CV4LV/blob/main/wirf2022_paper_1338_CV4LV.pdf)** by **Lifan Yu**, and Yi Fang, [Third Forum for Women in Research ”Quwa: Women Empowerment for Global
+Impact”](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx), Sharjah, UAE, Aug. 25, 20
 
 
 ---
@@ -36,8 +36,8 @@ Impact”, Sharjah, UAE, Aug. 25, 20
 <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=vue-dark&hide_border=true)](https://git.io/streak-stats" />
  </p>
 
-<img align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=SilvesterYu&hide_border=true&&theme=vue-dark">
-<img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" />
+<img align="left" height="100" src="https://github-readme-stats.vercel.app/api?username=SilvesterYu&hide_border=true&&theme=vue-dark">
+<img align="right" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" />
 
 
 
