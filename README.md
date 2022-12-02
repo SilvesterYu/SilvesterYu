@@ -31,9 +31,9 @@ Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pa
 
 ## 🎨 My Art
 
-[1] My ArtStation homepage: https://www.artstation.com/lifanyu
+🔖 My ArtStation homepage: https://www.artstation.com/lifanyu
 
-[2] My Instagram art account: https://www.instagram.com/lifan_yu_art/
+🔖 My Instagram art account: https://www.instagram.com/lifan_yu_art/
 
 
 ---
