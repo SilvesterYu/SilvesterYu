@@ -11,7 +11,7 @@
 
 ---
 
-## My Publications
+## 📖 My Publications
 
 [1] **[<ins>CrunchQA - A Synthetic Dataset for Question Answering over
 Crunchbase Knowledge Graph</ubs>](https://github.com/colab-nyuad/CrunchQA/blob/master/CrunchQA_IEEE.pdf)** by **Lifan Yu**, Nadya Abdel Madjid, and Djellel Difallah, accepted for publication at the Ninth International Workshop on High Performance Big
@@ -30,7 +30,7 @@ Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pa
 
 ---
 
-## My GitHub Activities
+## 🎯 My GitHub Activities
  
 <p align="center">
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=vue-dark&hide_border=true)](https://git.io/streak-stats" />
