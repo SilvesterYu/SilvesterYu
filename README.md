@@ -27,6 +27,14 @@ International Conference on Construction Applications of Virtual Reality ([CONVR
 through AI in Low Vision (LV)</ins>](https://github.com/SilvesterYu/CV4LV/blob/main/wirf2022_paper_1338_CV4LV.pdf)** by **Lifan Yu**, and Yi Fang, Third Forum for Women in Research ”Quwa: Women Empowerment for Global
 Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx)), Sharjah, UAE, Aug. 25, 20
 
+---
+
+## 🎨 My Art
+
+[1] My ArtStation homepage: https://www.artstation.com/lifanyu
+
+[2] My Instagram art account: https://www.instagram.com/lifan_yu_art/
+
 
 ---
 
