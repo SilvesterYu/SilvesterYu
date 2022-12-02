@@ -14,11 +14,20 @@
 ## My Publications
 
 [1] **[CrunchQA - A Synthetic Dataset for Question Answering over
-Crunchbase Knowledge Graph]()**, Lifan Yu, Nadya Abdel Madjid, and Djellel Difallah
+Crunchbase Knowledge Graph](https://github.com/colab-nyuad/CrunchQA/blob/master/CrunchQA_IEEE.pdf)** by **Lifan Yu**, Nadya Abdel Madjid, and Djellel Difallah
 
 Accepted for publication at the Ninth International Workshop on High Performance Big
 Graph Data Management, Analysis, and Mining (BigGraphs 2022) at 2022 IEEE International Conference on Big Data,
 Osaka, Japan, Dec. 17-20, 2022
+
+[2] **[Development of
+an Instance Segmentation Model for Automatic Identification of Recyclable Objects in Construction Projects](https://www.researchgate.net/publication/365700731_Development_of_an_Instance_Segmentation_Model_for_the_Automatic_Identification_of_Recyclable_Objects_in_Construction_Sites)** by Pi Ko, Muhammad Anas Gopee, **Lifan Yu**, Yaman Garg, Malak Mansour, and Borja Garcia de Soto, the 22nd
+International Conference on Construction Applications of Virtual Reality (CONVR 2022), Seoul, South Korea, Nov.
+16-19, 2022.
+
+[3] **Computer vision towards functional scene understanding: Unpacking Activities of Daily Living
+through AI in Low Vision (LV)** by **Lifan Yu**, and Yi Fang, Third Forum for Women in Research ”Quwa: Women Empowerment for Global
+Impact”, Sharjah, UAE, Aug. 25, 20
 
 
 ---
