@@ -38,6 +38,14 @@ Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pa
 
 ---
 
+## 🏆 My Awards
+
+📯 [<ins>Best Research Work</ins>](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx), Third Forum for Women in Research ”Quwa: Women Empowerment for Global
+Impact”
+
+
+---
+
 ## 🎯 My GitHub Activities
  
 <p align="center">
