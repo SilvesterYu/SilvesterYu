@@ -8,10 +8,10 @@
 
 🌱 Currently working on Computer Vision & Deep Learning using PyTorch & robotics projects using Gazebo
 
-<p align="center">
-## My GitHub Activities
- </p>
+---
 
+## My GitHub Activities
+ 
 <p align="center">
 <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=vue-dark&hide_border=true)](https://git.io/streak-stats" />
  </p>
