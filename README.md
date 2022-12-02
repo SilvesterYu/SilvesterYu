@@ -1,7 +1,7 @@
 <img width="934" alt="title4" src="https://user-images.githubusercontent.com/74582280/205233915-afa61aca-0239-4886-8fd7-aa2fff3a953e.png">
 
 
-💼 Research assistant, Multimedia & Visual Computing Lab, New York University ([<ins>NYU MMVC Lab</ins>](https://wp.nyu.edu/mmvc/))
+💼 Undergraduate research assistant, Multimedia & Visual Computing Lab, New York University ([<ins>NYU MMVC Lab</ins>](https://wp.nyu.edu/mmvc/))
 
 🌱 Research areas: Computer Vision | Deep Learning | Reinforcement Learning | Robotics | Natural Language Processing | Knowledge Graphs
 
