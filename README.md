@@ -1,9 +1,13 @@
 <img width="937" alt="title2" src="https://user-images.githubusercontent.com/74582280/205226328-af37a0a9-028e-4be9-bd6a-6db820825afe.png">
 
 ###👋 About Me
+
 💼 Undergraduate research assistant at Multimedia and Visual Computing Lab, New York University
+
 🎓 Computer Science major & Math minor at New York University Shanghai
+
 🔭 Looking to join graduate programs in Machine Learning | AI | Computer Fision | Data Science
+
 🌱 Currently working on Computer Vision & Deep Learning using PyTorch & robotics projects using Gazebo
 
 
