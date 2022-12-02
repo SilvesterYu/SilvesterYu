@@ -49,7 +49,7 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 🔍 Machine Learning course | [Sentiment analysis of CoVid-29 Tweets]()
 
-🔍 Interactive Lab course | [Environmental game: Save Me From Plastic]()
+🔍 Interaction Lab course | [Environmental game: Save Me From Plastic]()
 
 ---
 
