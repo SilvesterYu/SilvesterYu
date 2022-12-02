@@ -12,7 +12,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=nord&hide_border=true)](https://git.io/streak-stats" />
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=SilvesterYu&theme=vue-dark)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu&layout=compact&hide_border=true&langscount=10&theme=vue-dark)
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu&layout=compact&hide_border=true&langs_count=10&theme=vue-dark)
 
 
 
