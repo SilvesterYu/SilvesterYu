@@ -80,6 +80,8 @@ Impact”
 
 📯 Apr 2022, [<ins>2nd place winner</ins>](https://sites.nyuad.nyu.edu/hackathon/index.php/the-nyuad-hackathon-for-social-good-in-the-arab-world-2022/), NYUAD Hackathon on Quantum Computing for Social Good in the Arab World
 
+📯 May-Aug 2021, Dean's Undergraduate Research Fund award, New York University Shanghai
+
 📯 2020-2021 & 2021-2022, Dean's List for Academic Year, New York University
 
 ---
