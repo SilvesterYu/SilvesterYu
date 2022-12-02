@@ -33,9 +33,9 @@ Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pa
 
 Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
-🔖 My ArtStation homepage: https://www.artstation.com/lifanyu
+🔖 My ArtStation homepage: [<ins>https://www.artstation.com/lifanyu</ins>](https://www.artstation.com/lifanyu)
 
-🔖 My Instagram art account: https://www.instagram.com/lifan_yu_art/
+🔖 My Instagram art account: [<ins>https://www.instagram.com/lifan_yu_art/</ins>](https://www.instagram.com/lifan_yu_art/)
 
 ---
 
