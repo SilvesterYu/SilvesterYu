@@ -37,6 +37,19 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 🔖 My Instagram art account: https://www.instagram.com/lifan_yu_art/
 
+---
+
+## 🔧 My Projects
+
+### Course projects
+
+🔍 Information Visualization course | [World happiness interactive website]()
+
+🔍 Database Systems course | [Database building & web scraper]()
+
+🔍 Machine Learning course | [Sentiment analysis of CoVid-29 Tweets]()
+
+🔍 Interactive Lab course | [Environmental game: Save Me From Plastic]()
 
 ---
 
@@ -48,7 +61,6 @@ Impact”
 📯 Apr 2022, [<ins>2nd place winner</ins>](https://sites.nyuad.nyu.edu/hackathon/index.php/the-nyuad-hackathon-for-social-good-in-the-arab-world-2022/), NYUAD Hackathon on Quantum Computing for Social Good in the Arab World
 
 📯 2020-2021 & 2021-2022, Dean's List for Academic Year, New York University
-
 
 ---
 
