@@ -36,8 +36,8 @@ Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pa
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=vue-dark&hide_border=true)](https://git.io/streak-stats" />
  </p>
 
-<img align="left" height="110" src="https://github-readme-stats.vercel.app/api?username=SilvesterYu&hide_border=true&&theme=vue-dark">
-<img align="right" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" />
+<img align="left" height="120" src="https://github-readme-stats.vercel.app/api?username=SilvesterYu&hide_border=true&&theme=vue-dark">
+<img align="right" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" />
 
 
 
