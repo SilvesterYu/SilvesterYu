@@ -5,7 +5,7 @@
 
 🌱 Research areas: Computer Vision | Deep Learning | Reinforcement Learning | Robotics | Natural Language Processing | Knowledge Graphs
 
-🎓 Computer Science major & Math minor, New York University Shanghai, class of 2023
+🎓 Computer Science major & Math minor, New York University Shanghai class of 2023
 
 🔭 Looking to join graduate programs in Machine Learning | AI | Computer Vision | Data Science
 
