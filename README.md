@@ -49,7 +49,7 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 🔍 Machine Learning course | [Sentiment analysis of CoVid-29 Tweets](https://github.com/SilvesterYu/MachineLearningFinalProject_SentimentTweetCoVid)
 
-🔍 Bio-Inspired Robot Systems | [Rolling-crawling quadrupedal bot](https://github.com/SilvesterYu/BioInspiredRobotSys/blob/main/final%20report.pdf)
+🔍 Bio-Inspired Robot Systems | [Reconfigurable rolling-crawling quadrupedal bot](https://github.com/SilvesterYu/BioInspiredRobotSys/blob/main/final%20report.pdf)
 
 🔍 Introduction to Computer Science course | [Online chat system](https://github.com/SilvesterYu/IntroToComputerScienceFinalProject)
 
