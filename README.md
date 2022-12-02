@@ -2,7 +2,7 @@
 
 💼 Research assistant, Multimedia & Visual Computing Lab, New York University
 
-🎓 Computer Science major & Math minor at New York University Shanghai, class of 2023
+🎓 Computer Science major & Math minor, New York University Shanghai, class of 2023
 
 🔭 Looking to join graduate programs in Machine Learning | AI | Computer Vision | Data Science
 
