@@ -1,4 +1,4 @@
-<img width="934" alt="title" src="https://user-images.githubusercontent.com/74582280/205225423-26ea95d4-9f4f-4dac-9260-670c2026465a.png">
+<img width="937" alt="title2" src="https://user-images.githubusercontent.com/74582280/205226328-af37a0a9-028e-4be9-bd6a-6db820825afe.png">
 
 
 ## Here are statistics of my GitHub activities
