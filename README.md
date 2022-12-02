@@ -13,7 +13,7 @@
 <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=nord&hide_border=true)](https://git.io/streak-stats" />
  </p>
 
-<img align="left" width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=SilvesterYu&hide_border=true&&theme=vue-dark">
+<img align="left" width="600" height="400" src="https://github-readme-stats.vercel.app/api?username=SilvesterYu&hide_border=true&&theme=vue-dark">
 <img align="right" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" />
 
 
