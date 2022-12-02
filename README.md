@@ -1,4 +1,4 @@
-<img width="937" alt="title2" src="https://user-images.githubusercontent.com/74582280/205226328-af37a0a9-028e-4be9-bd6a-6db820825afe.png">
+<img width="937" alt="title2" src="https://user-images.githubusercontent.com/74582280/205233655-bc5165dd-f5a4-4ce1-8d93-183eae3d66aa.png">
 
 💼 Research assistant, Multimedia & Visual Computing Lab, New York University
 
