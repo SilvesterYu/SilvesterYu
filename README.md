@@ -1,6 +1,6 @@
 <img width="937" alt="title2" src="https://user-images.githubusercontent.com/74582280/205226328-af37a0a9-028e-4be9-bd6a-6db820825afe.png">
 
-💼 Undergraduate research assistant at Multimedia and Visual Computing Lab, New York University
+💼 Undergraduate research assistant, Multimedia & Visual Computing Lab, New York University
 
 🎓 Computer Science major & Math minor at New York University Shanghai
 
