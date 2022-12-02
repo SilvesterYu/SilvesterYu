@@ -4,7 +4,7 @@
 
 🎓 Computer Science major & Math minor at New York University Shanghai
 
-🔭 Looking to join graduate programs in Machine Learning | AI | Computer Fision | Data Science
+🔭 Looking to join graduate programs in Machine Learning | AI | Computer Vision | Data Science
 
 🌱 Currently working on Computer Vision & Deep Learning using PyTorch & robotics projects using Gazebo
 
