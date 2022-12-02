@@ -33,7 +33,7 @@ Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pa
 ## My GitHub Activities
  
 <p align="center">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=vue-dark&hide_border=true)](https://git.io/streak-stats" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=vue-dark&hide_border=true)](https://git.io/streak-stats" />
  </p>
 
 <img align="left" height="110" src="https://github-readme-stats.vercel.app/api?username=SilvesterYu&hide_border=true&&theme=vue-dark">
