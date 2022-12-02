@@ -9,7 +9,9 @@
 
 ## Statistics of my GitHub activities
 
-<img align="middle" src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=nord&hide_border=true)](https://git.io/streak-stats" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SilvesterYu&theme=nord&hide_border=true)](https://git.io/streak-stats" />
+ </p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=SilvesterYu&hide_border=true&&theme=vue-dark)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvesterYu&layout=compact&hide_border=true&langs_count=8&theme=vue-dark)
