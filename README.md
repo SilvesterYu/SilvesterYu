@@ -43,7 +43,7 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 ### Course projects
 
-🔍 Information Visualization course | [World happiness interactive website](https://github.com/SilvesterYu/DATS-SHU235-Information-Visualization-Final-Project)
+🔍 Information Visualization course | [World happiness interactive website](https://hogwild.github.io/infovis2022spring/team7/index.html) [source code](https://github.com/SilvesterYu/DATS-SHU235-Information-Visualization-Final-Project)
 
 🔍 Database Systems course | [Database building & web scraper](https://github.com/SilvesterYu/CS-UH2214-Database-Systems-PS1)
 
