@@ -46,7 +46,7 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 🔍 CrunchQA: Knowledge Graph Question Answering over Crunchbase data | [<ins>code & experiment results</ins>](https://github.com/colab-nyuad/CrunchQA)
 
-🔍 KUKA robotc arm automatic object sorting | [<ins>ROS code</ins>](https://github.com/SilvesterYu/KUKA-Project)
+🔍 KUKA robotic arm automatic object sorting | [<ins>ROS code</ins>](https://github.com/SilvesterYu/KUKA-Project)
 
 🔍 YOLOv5 bounding box adjustment | [<ins>Code & environment & instructions</ins>](https://github.com/SilvesterYu/YOLO_Silvey_Task)
 
