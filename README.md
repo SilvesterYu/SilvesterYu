@@ -86,7 +86,7 @@ Impact”
 
 ---
 
-## 🌏 My memberships
+## 🌏 My Memberships
 
 🎇 IEEE Member since 2022
 
