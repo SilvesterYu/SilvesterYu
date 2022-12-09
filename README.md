@@ -86,6 +86,14 @@ Impact”
 
 ---
 
+## 🌏 My memberships
+
+🎇 IEEE Member since 2022
+
+🎇 IEEE Computer Society Member since 2022
+
+---
+
 ## 🎯 My GitHub Activities
  
 <p align="center">
