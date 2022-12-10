@@ -25,7 +25,7 @@ International Conference on Construction Applications of Virtual Reality ([CONVR
 
 [3] **[<ins>Computer vision towards functional scene understanding: Unpacking Activities of Daily Living
 through AI in Low Vision (LV)</ins>](https://github.com/SilvesterYu/CV4LV/blob/main/wirf2022_paper_1338_CV4LV.pdf)** by **Lifan Yu**, and Yi Fang, Third Forum for Women in Research ”Quwa: Women Empowerment for Global
-Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx)), Sharjah, UAE, Aug. 25, 2022. [<ins>Forum Booklet</ins>](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Documents/Booklet_WIRF2022.pdf)
+Impact” ([WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx)), Sharjah, UAE, Aug. 25, 2022. [<ins>Forum Official Booklet [HERE]</ins>](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Documents/Booklet_WIRF2022.pdf)
 
 ---
 
