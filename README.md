@@ -14,7 +14,7 @@
 ## 📖 My Publications
 
 [1] **[<ins>CrunchQA - A Synthetic Dataset for Question Answering over
-Crunchbase Knowledge Graph</ubs>](https://github.com/colab-nyuad/CrunchQA/blob/master/CrunchQA_IEEE.pdf)** by **Lifan Yu**, Nadya Abdel Madjid, and Djellel Difallah, accepted for publication at the Ninth International Workshop on High Performance Big
+Crunchbase Knowledge Graph</ubs>](https://ieeexplore.ieee.org/abstract/document/10021012)** by **Lifan Yu**, Nadya Abdel Madjid, and Djellel Difallah, accepted for publication at the Ninth International Workshop on High Performance Big
 Graph Data Management, Analysis, and Mining ([BigGraphs 2022](https://biggraphs.org/)) at [2022 IEEE International Conference on Big Data](http://bigdataieee.org/BigData2022/),
 Osaka, Japan, Dec. 17-20, 2022
 
