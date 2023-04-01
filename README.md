@@ -57,6 +57,8 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 ### Course projects
 
+🔍 2023 Software Engineering Course | [Depression Diagnosis Application](https://github.com/SilvesterYu/SoftwareEngineeringCourse-DepressionDiagnosis.git) In-progress
+
 🔍 2022 Information Visualization course | [<ins>World happiness interactive website</ins>](https://hogwild.github.io/infovis2022spring/team7/index.html) source code [<ins>HERE</ins>](https://github.com/SilvesterYu/DATS-SHU235-Information-Visualization-Final-Project)
 
 🔍 2022 Database Systems course | [<ins>Database building & web scraper</ins>](https://github.com/SilvesterYu/CS-UH2214-Database-Systems-PS1)
