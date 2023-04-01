@@ -7,7 +7,7 @@
 
 🎓 Computer Science major & Math minor, New York University Shanghai class of 2023
 
-🔭 Looking to join graduate programs in Machine Learning | AI | Computer Vision | Data Science
+🔭 Looking to join graduate programs in Machine Learning | AI | Computer Vision
 
 ---
 
