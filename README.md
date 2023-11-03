@@ -1,11 +1,14 @@
 <img width="934" alt="title4" src="https://user-images.githubusercontent.com/74582280/205233915-afa61aca-0239-4886-8fd7-aa2fff3a953e.png">
 
 
+🎓 CMU MSCV current student
+
+🎓 Computer Science major & Math minor, New York University Shanghai class of 2023
+
 💼 Former undergraduate research assistant, New York University Abu Dhabi Collaborative Intelligence Lab, Multimedia and Visual Computing Lab.
 
 🌱 Research areas: Computer Vision | Deep Learning | Reinforcement Learning | Robotics | Natural Language Processing | Knowledge Graphs
 
-🎓 Computer Science major & Math minor, New York University Shanghai class of 2023
 
 🔭 Looking to join graduate programs in Machine Learning | AI | Computer Vision
 
