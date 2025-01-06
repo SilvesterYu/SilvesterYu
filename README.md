@@ -7,7 +7,7 @@
 
 💼 Former undergraduate research assistant, New York University Abu Dhabi Collaborative Intelligence Lab, Multimedia and Visual Computing Lab.
 
-🌱 Research areas: Robotics | Affordance Learning | Computer Vision | Question-Answering
+🌱 Research areas: Robotic Learning | 3D Computer Vision | Question-Answering
 
 
 🔭 Open for jobs
