@@ -19,7 +19,7 @@
 [1] **[Learning Generalizable Tool-use Skills through Trajectory
 Generation](https://sites.google.com/view/toolgen)** Carl Qi, Yilin Wu, Lifan Yu, Haoyue Liu, Bowen Jiang, Xingyu Lin, David Held, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)
 
-[2] **[Curiosity & Entropy Driven Unsupervised RL in Multiple Environments](https://sites.google.com/view/toolgen)** Shaurya Dewan, Anisha Jain, Zoe LaLena, Lifan Yu, 2023
+[2] **[Curiosity & Entropy Driven Unsupervised RL in Multiple Environments]([https://sites.google.com/view/toolgen](https://arxiv.org/html/2401.04198v1))** Shaurya Dewan, Anisha Jain, Zoe LaLena, Lifan Yu, 2023
 
 [3] **[<ins>CrunchQA - A Synthetic Dataset for Question Answering over
 Crunchbase Knowledge Graph</ubs>](https://ieeexplore.ieee.org/abstract/document/10021012)** by **Lifan Yu**, Nadya Abdel Madjid, and Djellel Difallah, accepted for publication at the Ninth International Workshop on High Performance Big
