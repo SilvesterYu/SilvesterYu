@@ -1,7 +1,7 @@
 <img width="934" alt="title4" src="https://user-images.githubusercontent.com/74582280/205233915-afa61aca-0239-4886-8fd7-aa2fff3a953e.png">
 
 
-🎓 Carnegie Mellon University MSCV class of 2024 from [CMU Robot Perceiving and Doing Lab](https://r-pad.github.io/)
+🎓 Carnegie Mellon University MSCV class of 2024 from [Robots Perceiving and Doing Lab](https://r-pad.github.io/)
 
 🎓 Computer Science major & Math minor, New York University Shanghai class of 2023
 
