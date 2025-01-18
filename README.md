@@ -22,7 +22,7 @@ Generation](https://sites.google.com/view/toolgen)** 2024 IEEE/RSJ International
 Crunchbase Knowledge Graph</ubs>](https://ieeexplore.ieee.org/abstract/document/10021012)** IEEE Big Data 2022
 
 [4] **[<ins>Development of
-an Instance Segmentation Model for Automatic Identification of Recyclable Objects in Construction Sites</ins>](https://www.researchgate.net/publication/365700731_Development_of_an_Instance_Segmentation_Model_for_the_Automatic_Identification_of_Recyclable_Objects_in_Construction_Sites)** [CONVR 202
+an Instance Segmentation Model for Automatic Identification of Recyclable Objects in Construction Sites</ins>](https://www.researchgate.net/publication/365700731_Development_of_an_Instance_Segmentation_Model_for_the_Automatic_Identification_of_Recyclable_Objects_in_Construction_Sites)** CONVR 2022
 
 [5] **[<ins>Computer vision towards functional scene understanding: Unpacking Activities of Daily Living
 through AI in Low Vision (LV)</ins>](https://github.com/SilvesterYu/CV4LV/blob/main/wirf2022_paper_1338_CV4LV.pdf)** [WIRF2022](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx)). [<ins>Forum Booklet: https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Documents/Booklet_WIRF2022.pdf</ins>](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Documents/Booklet_WIRF2022.pdf)
