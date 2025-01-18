@@ -19,7 +19,7 @@ Generation](https://sites.google.com/view/toolgen)** 2024 IEEE/RSJ International
 [2] **[Curiosity & Entropy Driven Unsupervised RL in Multiple Environments](https://arxiv.org/abs/2401.04198)** 2023
 
 [3] **[<ins>CrunchQA - A Synthetic Dataset for Question Answering over
-Crunchbase Knowledge Graph</ubs>](https://ieeexplore.ieee.org/abstract/document/10021012)** IEEE Big Data 2022]
+Crunchbase Knowledge Graph</ubs>](https://ieeexplore.ieee.org/abstract/document/10021012)** IEEE Big Data 2022
 
 [4] **[<ins>Development of
 an Instance Segmentation Model for Automatic Identification of Recyclable Objects in Construction Sites</ins>](https://www.researchgate.net/publication/365700731_Development_of_an_Instance_Segmentation_Model_for_the_Automatic_Identification_of_Recyclable_Objects_in_Construction_Sites)** [CONVR 202
