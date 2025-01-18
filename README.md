@@ -35,7 +35,7 @@ through AI in Low Vision (LV)</ins>](https://github.com/SilvesterYu/CV4LV/blob/m
 
 🔖 My Instagram art account: [<ins>https://www.instagram.com/lifan_yu_art/</ins>](https://www.instagram.com/lifan_yu_art/)
 
-🔖 My literary works: [<ins>Website</ins>](https://www.royalroad.com/profile/571314/fictions)
+🔖 My literary works: [<ins>my fictions on Royal Road</ins>](https://www.royalroad.com/profile/571314/fictions)
 
 🔖 My dance performance on 2024 Greater Pittsburgh Chinese New Year Gala: [<ins>YouTube | starting 1:25, second row, leftmost</ins>](https://www.youtube.com/watch?v=HUSKV7Pjk3E&list=PLesqxk0-VZlTo5CC5Huow5r-L7Qkq_5H0&index=1)
 
