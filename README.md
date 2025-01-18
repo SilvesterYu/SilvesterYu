@@ -45,12 +45,18 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 🔖 My Instagram art account: [<ins>https://www.instagram.com/lifan_yu_art/</ins>](https://www.instagram.com/lifan_yu_art/)
 
+🔖 My literary works: [<ins>Website</ins>](https://www.royalroad.com/profile/571314/fictions)
+
+🔖 My dance performance on 2024 Greater Pittsburgh Chinese New Year Gala, Video starting 1:25, second row, leftmost: [<ins>YouTube</ins>](https://www.youtube.com/watch?v=HUSKV7Pjk3E&list=PLesqxk0-VZlTo5CC5Huow5r-L7Qkq_5H0&index=1)
+
 ---
 
 ## 🔧 My Projects
 ### Research related & open-source
 
-🔍 CV4LV: Computer Vision for people with Low Vision | [<ins>Simulation and code</ins>](https://github.com/SilvesterYu/CV4LV)
+🔍 ToolGen: A robot that makes cooking dough | [<ins>Project Website</ins>](https://sites.google.com/view/toolgen)_
+
+🔍 Franka Robot Control Using Python + Camera Calibration Code | [<ins>Codebase</ins>](https://github.com/SilvesterYu/Franka_control_calibration_grasp)
 
 🔍 CrunchQA: Knowledge Graph Question Answering over Crunchbase data | [<ins>code & experiment results</ins>](https://github.com/colab-nyuad/CrunchQA)
 
@@ -65,6 +71,10 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 ### Course projects
 
+🔍 2024 CMU 16826 Learning for 3D Vision | [Download index.html in each projX folder to view my submissions](https://github.com/SilvesterYu/LearningFor3DVision-CMU16825)
+
+🔍 2024 CMU Learning Based Image Synthesis | [See my works in the README links](https://github.com/SilvesterYu/CMU16726-LearningBasedImageSynthesis?tab=readme-ov-file)
+
 🔍 2023 Software Engineering Course | [Depression Diagnosis Application](https://github.com/SilvesterYu/SoftwareEngineeringCourse-DepressionDiagnosis.git)
 
 🔍 2022 Information Visualization course | [<ins>World happiness interactive website</ins>](https://hogwild.github.io/infovis2022spring/team7/index.html) source code [<ins>HERE</ins>](https://github.com/SilvesterYu/DATS-SHU235-Information-Visualization-Final-Project)
@@ -74,8 +84,6 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 🔍 2021 Machine Learning course | [<ins>Sentiment analysis of CoVid-29 Tweets</ins>](https://github.com/SilvesterYu/MachineLearningFinalProject_SentimentTweetCoVid)
 
 🔍 2021 Bio-Inspired Robot Systems | [<ins>Reconfigurable rolling-crawling quadrupedal bot</ins>](https://github.com/SilvesterYu/BioInspiredRobotSys/blob/main/final%20report.pdf)
-
-🔍 2020 Introduction to Computer Science course | [<ins>Online chat system</ins>](https://github.com/SilvesterYu/IntroToComputerScienceFinalProject)
 
 🔍 2019 Interaction Lab course | [<ins>Environmental game: Save Me From Plastic</ins>](https://wp.nyu.edu/shanghai-ima-documentation/foundations/interaction-lab/ly1164/save-me-from-plastic-lifan-yu-inmi-lee/)
 
