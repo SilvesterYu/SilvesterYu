@@ -44,7 +44,7 @@ through AI in Low Vision (LV)</ins>](https://github.com/SilvesterYu/CV4LV/blob/m
 ## 🔧 My Projects
 ### Research related & open-source
 
-🔍 ToolGen: A robot that makes cooking dough | [<ins>Project Website</ins>](https://sites.google.com/view/toolgen)_
+🔍 ToolGen: A robot that makes cooking dough | [<ins>Project Website</ins>](https://sites.google.com/view/toolgen)
 
 🔍 Franka Robot Control Using Python + Camera Calibration Code | [<ins>Codebase</ins>](https://github.com/SilvesterYu/Franka_control_calibration_grasp)
 
