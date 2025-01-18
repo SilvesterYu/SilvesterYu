@@ -47,7 +47,7 @@ Freelance artist of digital art | Chinese art | watercolor | gouache | sketch
 
 🔖 My literary works: [<ins>Website</ins>](https://www.royalroad.com/profile/571314/fictions)
 
-🔖 My dance performance on 2024 Greater Pittsburgh Chinese New Year Gala, Video starting 1:25, second row, leftmost: [<ins>YouTube</ins>](https://www.youtube.com/watch?v=HUSKV7Pjk3E&list=PLesqxk0-VZlTo5CC5Huow5r-L7Qkq_5H0&index=1)
+🔖 My dance performance on 2024 Greater Pittsburgh Chinese New Year Gala: [<ins>YouTube | starting 1:25, second row, leftmost</ins>](https://www.youtube.com/watch?v=HUSKV7Pjk3E&list=PLesqxk0-VZlTo5CC5Huow5r-L7Qkq_5H0&index=1)
 
 ---
 
