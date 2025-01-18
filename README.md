@@ -9,9 +9,6 @@
 
 🌱 Research areas: Robotic Learning | 3D Computer Vision | Question-Answering
 
-
-🔭 Open for jobs
-
 ---
 
 ## 📖 My Publications and Works
