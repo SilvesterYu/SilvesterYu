@@ -83,6 +83,8 @@ through AI in Low Vision (LV)</ins>](https://github.com/SilvesterYu/CV4LV/blob/m
 
 ## 🏆 My Awards
 
+📯 May 2023, Major Honors in Computer Science, New York University
+
 📯 Aug 2022, [<ins>Best Research Work</ins>](https://www.sharjah.ac.ae/en/Research/Outreach/wirf2022/Pages/wn.aspx), Third Forum for Women in Research ”Quwa: Women Empowerment for Global
 Impact”
 
@@ -91,14 +93,6 @@ Impact”
 📯 May-Aug 2021, Dean's Undergraduate Research Fund award, New York University Shanghai
 
 📯 2020-2021 & 2021-2022, Dean's List for Academic Year, New York University
-
----
-
-## 🌏 My Memberships
-
-🎇 IEEE Member since 2022
-
-🎇 IEEE Computer Society Member since 2022
 
 ---
 
